@@ -3,8 +3,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
-  color: #fff;
+  background-color: #fae9ff;
+  color: #f0c3ff;
   padding: 1rem;
 }
 
