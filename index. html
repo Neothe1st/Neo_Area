@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neo Area - Home</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Neo Area</h1>
+    <p>Your Creative Hub</p>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Explore</a></li>
+      <li><a href="#">Profile</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section class="featured-content">
+      <h2>Featured Content</h2>
+      <!-- Display featured content, e.g., images or videos -->
+    </section>
+    <section class="recent-posts">
+      <h2>Recent Posts</h2>
+      <!-- Display recent posts, e.g., user-generated content -->
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2023 Neo Area. All rights reserved.</p>
+  </footer>
+</body>
+</html>
