@@ -8,14 +8,24 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to Neo Area</h1>
-    <p>Your Creative Hub</p>
+    <div class="brand">
+      <div class="menu-icon">&#9776;</div>
+      <div class="brand-text">Neo Area</div>
+    </div>
+    <div class="profile">
+      <img src="profile-picture.jpg" alt="Profile Picture">
+      <div class="profile-info">
+        <p class="username">Username</p>
+        <a href="#" class="settings-link">Profile Settings</a>
+      </div>
+    </div>
   </header>
   <nav>
     <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">Explore</a></li>
-      <li><a href="#">Profile</a></li>
+      <li><a href="#">Featured</a></li>
+      <li><a href="#">Videos</a></li>
+      <li><a href="#">Games</a></li>
+      <li><a href="#">Art</a></li>
     </ul>
   </nav>
   <main>
@@ -33,3 +43,4 @@
   </footer>
 </body>
 </html>
+
